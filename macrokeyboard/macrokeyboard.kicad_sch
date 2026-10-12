@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20260306)
+	(version 20260629)
 	(generator "eeschema")
-	(generator_version "10.0")
+	(generator_version "10.99")
 	(uuid "89a3a5a0-bbe4-4204-bc80-4d0149f07902")
 	(paper "A4")
 	(lib_symbols
@@ -2557,10 +2557,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "a8f36a69-a6d1-4e0f-862d-e8124417f286")
+			(uuid "a8f36a69-a6d1-4e0f-862d-e8124417f287")
 		)
 		(pin "2"
-			(uuid "757e3e84-8bd2-4e63-bf8f-1a7b6eac60e8")
+			(uuid "757e3e84-8bd2-4e63-bf8f-1a7b6eac60e9")
 		)
 		(instances
 			(project "macrokeyboard"
@@ -2661,10 +2661,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "a8f36a69-a6d1-4e0f-862d-e8124417f286")
+			(uuid "a8f36a69-a6d1-4e0f-862d-e8124417f288")
 		)
 		(pin "2"
-			(uuid "757e3e84-8bd2-4e63-bf8f-1a7b6eac60e8")
+			(uuid "757e3e84-8bd2-4e63-bf8f-1a7b6eac60ea")
 		)
 		(instances
 			(project "macrokeyboard"
@@ -3193,10 +3193,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "a8f36a69-a6d1-4e0f-862d-e8124417f286")
+			(uuid "a8f36a69-a6d1-4e0f-862d-e8124417f289")
 		)
 		(pin "2"
-			(uuid "757e3e84-8bd2-4e63-bf8f-1a7b6eac60e8")
+			(uuid "757e3e84-8bd2-4e63-bf8f-1a7b6eac60eb")
 		)
 		(instances
 			(project "macrokeyboard"
@@ -3297,10 +3297,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "a8f36a69-a6d1-4e0f-862d-e8124417f286")
+			(uuid "a8f36a69-a6d1-4e0f-862d-e8124417f28a")
 		)
 		(pin "2"
-			(uuid "757e3e84-8bd2-4e63-bf8f-1a7b6eac60e8")
+			(uuid "757e3e84-8bd2-4e63-bf8f-1a7b6eac60ec")
 		)
 		(instances
 			(project "macrokeyboard"
@@ -3829,10 +3829,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "a8f36a69-a6d1-4e0f-862d-e8124417f286")
+			(uuid "a8f36a69-a6d1-4e0f-862d-e8124417f28b")
 		)
 		(pin "2"
-			(uuid "757e3e84-8bd2-4e63-bf8f-1a7b6eac60e8")
+			(uuid "757e3e84-8bd2-4e63-bf8f-1a7b6eac60ed")
 		)
 		(instances
 			(project "macrokeyboard"
@@ -4999,10 +4999,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "a8f36a69-a6d1-4e0f-862d-e8124417f286")
+			(uuid "a8f36a69-a6d1-4e0f-862d-e8124417f28c")
 		)
 		(pin "2"
-			(uuid "757e3e84-8bd2-4e63-bf8f-1a7b6eac60e8")
+			(uuid "757e3e84-8bd2-4e63-bf8f-1a7b6eac60ee")
 		)
 		(instances
 			(project "macrokeyboard"
@@ -5317,10 +5317,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "a8f36a69-a6d1-4e0f-862d-e8124417f286")
+			(uuid "a8f36a69-a6d1-4e0f-862d-e8124417f28d")
 		)
 		(pin "2"
-			(uuid "757e3e84-8bd2-4e63-bf8f-1a7b6eac60e8")
+			(uuid "757e3e84-8bd2-4e63-bf8f-1a7b6eac60ef")
 		)
 		(instances
 			(project "macrokeyboard"
@@ -6359,10 +6359,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "a8f36a69-a6d1-4e0f-862d-e8124417f286")
+			(uuid "a8f36a69-a6d1-4e0f-862d-e8124417f28e")
 		)
 		(pin "2"
-			(uuid "757e3e84-8bd2-4e63-bf8f-1a7b6eac60e8")
+			(uuid "757e3e84-8bd2-4e63-bf8f-1a7b6eac60f0")
 		)
 		(instances
 			(project "macrokeyboard"
@@ -6463,10 +6463,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "a8f36a69-a6d1-4e0f-862d-e8124417f286")
+			(uuid "a8f36a69-a6d1-4e0f-862d-e8124417f28f")
 		)
 		(pin "2"
-			(uuid "757e3e84-8bd2-4e63-bf8f-1a7b6eac60e8")
+			(uuid "757e3e84-8bd2-4e63-bf8f-1a7b6eac60f1")
 		)
 		(instances
 			(project "macrokeyboard"
@@ -6645,10 +6645,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "a8f36a69-a6d1-4e0f-862d-e8124417f286")
+			(uuid "a8f36a69-a6d1-4e0f-862d-e8124417f290")
 		)
 		(pin "2"
-			(uuid "757e3e84-8bd2-4e63-bf8f-1a7b6eac60e8")
+			(uuid "757e3e84-8bd2-4e63-bf8f-1a7b6eac60f2")
 		)
 		(instances
 			(project "macrokeyboard"
@@ -6749,10 +6749,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "a8f36a69-a6d1-4e0f-862d-e8124417f286")
+			(uuid "a8f36a69-a6d1-4e0f-862d-e8124417f291")
 		)
 		(pin "2"
-			(uuid "757e3e84-8bd2-4e63-bf8f-1a7b6eac60e8")
+			(uuid "757e3e84-8bd2-4e63-bf8f-1a7b6eac60f3")
 		)
 		(instances
 			(project "macrokeyboard"
@@ -7309,10 +7309,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "a8f36a69-a6d1-4e0f-862d-e8124417f286")
+			(uuid "a8f36a69-a6d1-4e0f-862d-e8124417f292")
 		)
 		(pin "2"
-			(uuid "757e3e84-8bd2-4e63-bf8f-1a7b6eac60e8")
+			(uuid "757e3e84-8bd2-4e63-bf8f-1a7b6eac60f4")
 		)
 		(instances
 			(project "macrokeyboard"
